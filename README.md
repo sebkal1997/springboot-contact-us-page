@@ -1,6 +1,6 @@
 # Contact us page example
 
-Simple contact us page which takes form input and send it to email address.
+Simple contact us page which takes form input and send confirmation to provided email address.
 
 1. Contact Us form.
 ![img.png](images/img_01.png)
